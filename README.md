@@ -1,3 +1,3 @@
 # square-letter-generator
 
-<a href="square-letter-generator">Demo</a>
+<a href="https://quickz.github.io/square-letter-generator/">Demo</a>
